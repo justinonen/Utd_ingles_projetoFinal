@@ -1,0 +1,19 @@
+Student Attendance Tracking System
+
+Usage
+Choose option 1 to record attendance.
+Enter the student's name, course name, and whether they are present.
+
+Choose option 2 to view all attendance records.
+
+Choose option 3 to delete a record.
+Enter the student's name, course name, date and time of attendance, 
+    and whether the student is present.
+
+Choose option 4 to exit the program and the "student_attendance.txt" 
+    file will automatically be generated as an Excel file Format.
+
+Each record is saved in the following format:
+
+Header: Student Course  Date       Time      Status
+Record: [Name] [Course] DD/MM/YYYY HH:MM [Present/Absent]

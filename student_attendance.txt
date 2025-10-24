@@ -1,0 +1,6 @@
+Student Course Date Time Status
+nen ti 22/10/2025 10:58 Present
+francisco_jose ti 22/10/2025 10:59 Present
+nen ingles 22/10/2025 10:59 Absent
+juju_pa ti 22/10/2025 10:59 Present
+nen ingles 22/10/2025 15:37 Present
