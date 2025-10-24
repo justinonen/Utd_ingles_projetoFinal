@@ -43,7 +43,7 @@ def delete_attendance(file_name):
     """
     Deletes the record containing the username of a course on a given date
     """
-    temporary_file = ""
+    temporary_file = file_name+"_temp"
     student = input("Student name: ")
     course = input("Course name: ")
     timestamp = input("Enter the date in the format (dd/mm/aaaa): ")
