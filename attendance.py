@@ -50,7 +50,7 @@ def delete_attendance(file_name):
     call_time = input("Enter the call time in the format (hh:mm): ")
     status = input("Enter the status (Present/Absent)")
     line_to_delete = f"{student} {course} {timestamp} {call_time} {status}\n"
-
+    print(f"{line_to_delete}")
     with open(file_name, "r", encoding="utf-8") as file, \
             open(temporary_file, "w", encoding="utf-8") as file_writing:
         deleted = False
