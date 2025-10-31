@@ -10,8 +10,14 @@ Choose option 3 to delete a record.
 Enter the student's name, course name, date and time of attendance, 
     and whether the student is present.
 
-Choose option 4 to exit the program and the "student_attendance.txt" 
-    file will automatically be generated as an Excel file Format.
+Choose option 4 to exit the program.
+    The "student_attendance.txt" file will automatically be generated as an Excel file Format.
+    The pandas library simplifies this task, being the most common for data manipulation 
+    in Python.
+    Install the libraries in the Linux terminal: pip install pandas openpyxl
+    (It's important to also install openpyxl, as it's used internally by pandas to save 
+    .xlsx files.)
+
 
 Each record is saved in the following format:
 
