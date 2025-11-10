@@ -24,4 +24,3 @@ Each record is saved in the following format:
 Header: Student Course  Date       Time      Status
 Record: [Name] [Course] DD/MM/YYYY HH:MM [Present/Absent]
 
-End File
